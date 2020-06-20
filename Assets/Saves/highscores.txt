@@ -1,0 +1,10 @@
+{"name":"TRON","score":13700}
+{"name":"JJ","score":12900}
+{"name":"FLYNN","score":12000}
+{"name":"FETT","score":11900}
+{"name":"Halliday","score":11000}
+{"name":"Jones","score":10000}
+{"name":"Woz","score":9000}
+{"name":"Carmack","score":8000}
+{"name":"mc","score":7000}
+{"name":"parker","score":6000}
