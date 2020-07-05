@@ -20,14 +20,14 @@ Step 2. Unzip the project in your desired location
 
 ### Running
 
-Step 1. Navigate to the Test-Builds folder for the project.
-Step 2. Run the "LaserArena.exe" file.
+1. Navigate to the Test-Builds folder for the project.
+2. Run the "LaserArena.exe" file.
 Enjoy!
 
 ## Built With
 
 * [Unity](https://unity.com/) - The game engine
-* [C#}(https://docs.microsoft.com/en-us/dotnet/csharp/)
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
 * [Microsoft Visual Studio Community 2019](https://visualstudio.microsoft.com/) - The IDE that I used
 
 ## Authors
