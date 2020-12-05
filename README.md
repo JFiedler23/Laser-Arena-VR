@@ -1,6 +1,6 @@
 # Laser Arena VR
 A VR arcade-style target shooter built using Unity and C#. Right now, it only works with the Oculus Rift as that is the only headset I am able to test it on.
-![alt text](https://github.com/JFiedler23/laser-Arena-VR/blob/master/laser-arena-screenshot.png?raw=true)
+![Laser Arena VR screenshot](https://github.com/JFiedler23/laser-Arena-VR/blob/master/laser-arena-screenshot.png?raw=true)
 
 ## Getting Started
 
